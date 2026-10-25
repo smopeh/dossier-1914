@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#203e34">
+  <meta name="description" content="Ontrafel de Eerste Wereldoorlog. Een interactieve leerroute met vijf dossiers, een proeftoets en gerichte herhaling voor 2 havo.">
+  <title>Dossier 1914 — ontrafel de Eerste Wereldoorlog</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="visual-v2.css">
+  <script defer src="content.js"></script>
+  <script defer src="visuals.js"></script>
+  <script defer src="hero-data.js"></script>
+  <script defer src="art-data.js"></script>
+  <script defer src="archive-data.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Ga naar de inhoud</a>
+  <header class="topbar">
+    <a class="brand" href="#start" aria-label="Dossier 1914, naar de start"><span class="brand-mark" aria-hidden="true">D<span>14</span></span><span>DOSSIER <strong>1914</strong><small>HET HISTORISCH ONDERZOEK</small></span></a>
+    <nav aria-label="Hoofdnavigatie"><a href="#start" data-nav="start">Werkplek</a><a href="#dossier" data-nav="dossier">Dossiers</a><a href="#toets" data-nav="toets">Proeftoets</a><a href="#herhaal" data-nav="herhaal">Herhalen</a><a href="#samenvatting" data-nav="samenvatting">Samenvatting</a></nav>
+    <label class="theme-switcher" for="theme-select"><span>Sfeer</span><select id="theme-select" aria-label="Kies een visueel thema"><option value="archief">Archief</option><option value="nacht">Nacht</option><option value="papier">Licht</option></select></label>
+    <button class="icon-button info-trigger" data-action="info" aria-label="Over deze leerervaring en bronnen">i</button>
+  </header>
+  <div id="storage-warning" class="storage-warning" hidden>Je browser kan voortgang niet bewaren. Je kunt alles gebruiken; houd deze pagina open tot je klaar bent.</div>
+  <main id="main" tabindex="-1"></main>
+  <footer class="footer"><span>DOSSIER 1914 <span aria-hidden="true">/</span> Een onderzoek naar de Eerste Wereldoorlog</span><div><span>2 havo · algemene voorbereiding</span><button data-action="info">Inhoud & bronnen</button><button data-action="reset">Opnieuw beginnen</button></div></footer>
+  <dialog id="info-dialog" aria-labelledby="info-title"><div class="dialog-head"><h2 id="info-title">Over dit onderzoek</h2><button data-action="close-info" class="icon-button" aria-label="Sluiten">×</button></div><div id="info-content"></div></dialog>
+  <dialog id="photo-dialog" class="photo-lightbox" aria-labelledby="photo-title"><div class="dialog-head"><h2 id="photo-title">Historische foto</h2><button data-action="close-photo" class="icon-button" aria-label="Foto sluiten">×</button></div><div id="photo-content"></div></dialog>
+  <dialog id="reset-dialog" aria-labelledby="reset-title"><h2 id="reset-title">Een nieuw onderzoek starten?</h2><p>Hiermee wis je alleen de voortgang en antwoorden van Dossier 1914 in deze browser. Je kunt daarna meteen opnieuw beginnen.</p><div class="button-row"><button class="button secondary" data-action="cancel-reset">Bewaar mijn voortgang</button><button class="button" data-action="confirm-reset">Wis mijn leerresultaten</button></div></dialog>
+  <div id="live-message" class="sr-only" role="status" aria-live="polite"></div>
+  <noscript>Schakel JavaScript in om de dossiers en oefeningen te gebruiken. De losse samenvatting in samenvatting.html werkt zonder JavaScript.</noscript>
+</body>
+</html>

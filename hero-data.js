@@ -1,0 +1,1 @@
+window.DOSSIER_HERO={src:'assets/hero-archive.jpg',alt:'Sfeervolle illustratie van een historisch onderzoeksbureau met brieven, een kompas en gereconstrueerde beelden van de Eerste Wereldoorlog.',caption:'Sfeerbeeld · AI-gegenereerde reconstructie'};

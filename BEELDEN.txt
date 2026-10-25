@@ -1,0 +1,44 @@
+DOSSIER 1914 — OORSPRONKELIJKE DOSSIERBEELDEN
+
+Gemaakt met de ingebouwde image_gen-tool; geen CLI- of API-fallback gebruikt.
+Alle vijf beelden zijn illustratieve reconstructies. Ze zijn geen authentieke bronfoto's.
+De scènes zijn visueel gecontroleerd op schoolgeschiktheid, sfeer, kleding/objecten, leesbare afwijkende tekst en ongewenste gewelddetails. Er is geen letterlijke tekst opgenomen. JPEG-versies zijn voor de website geoptimaliseerd naar 1440 pixels breed; de inhoud is niet creatief nabewerkt.
+
+Opgeslagen projectbestanden:
+assets/scene-spanning.jpg
+assets/scene-escalatie.jpg
+assets/scene-front.jpg
+assets/scene-thuis.jpg
+assets/scene-gevolgen.jpg
+
+Definitieve prompts:
+
+SPANNING
+Use case: historical-scene. Asset type: wide landscape chapter cover for a Dutch secondary-school First World War learning website. Style: rich cinematic hand-painted historical illustration with subtle photographic texture, refined museum-exhibition quality; a coherent warm parchment, sepia, antique brass, muted burgundy, olive and petrol palette. Wide landscape composition (about 16:9), detailed physical textures, authentic early twentieth-century objects, atmospheric light. School suitable and respectful. No text, lettering, numbers, watermarks or logos. No graphic violence, gore or injuries. This is an illustrative reconstruction, not an authentic historical photograph.
+Scene: A European industrial coastal city and naval dock around 1910: a period steam battleship moored at a quay, cranes and factory smokestacks, grand civic architecture in the background, a few small figures in Edwardian coats. Visual theme is industrial power, naval rivalry and fragile peace. Hazy golden late-afternoon light. No modern buildings, containers, aircraft carriers or modern vehicles.
+
+ESCALATIE
+Use case: historical-scene. Asset type: wide landscape chapter cover for a Dutch secondary-school First World War learning website. Style: rich cinematic hand-painted historical illustration with subtle photographic texture, refined museum-exhibition quality; a coherent warm parchment, sepia, antique brass, muted burgundy, olive and petrol palette. Wide landscape composition (about 16:9), detailed physical textures, authentic early twentieth-century objects, atmospheric light. School suitable and respectful. No text, lettering, numbers, watermarks or logos. No graphic violence, gore or injuries. This is an illustrative reconstruction, not an authentic historical photograph.
+Scene: Sarajevo in summer 1914 under Austro-Hungarian rule: a quiet period street near the river, Austro-Hungarian façades, horse-drawn carriage and a few pedestrians in historically suitable clothing; elegant blank telegram paper and a fountain pen softly included as a foreground archive motif. Suspenseful muted burgundy light, no assassination scene, no violence, no identifiable historical person, no readable text.
+
+FRONT
+Use case: historical-scene. Asset type: wide landscape chapter cover for a Dutch secondary-school First World War learning website. Style: rich cinematic hand-painted historical illustration with subtle photographic texture, refined museum-exhibition quality; a coherent warm parchment, sepia, antique brass, muted burgundy, olive and petrol palette. Wide landscape composition (about 16:9), detailed physical textures, authentic early twentieth-century objects, atmospheric light. School suitable and respectful. No text, lettering, numbers, watermarks or logos. No graphic violence, gore or injuries. This is an illustrative reconstruction, not an authentic historical photograph.
+Scene: The Western Front around 1916: view along a carefully built British trench with wood duckboards, sandbags, rough timber, wet earthy walls and coils of barbed wire beyond; three weary but dignified British soldiers in period khaki and Brodie helmets, no weapons aimed, no combat. Misty dawn with one warm shaft of sunlight. Wide detailed scene, contemplative and respectful.
+
+THUIS
+Use case: historical-scene. Asset type: wide landscape chapter cover for a Dutch secondary-school First World War learning website. Style: rich cinematic hand-painted historical illustration with subtle photographic texture, refined museum-exhibition quality; a coherent warm parchment, sepia, antique brass, muted burgundy, olive and petrol palette. Wide landscape composition (about 16:9), detailed physical textures, authentic early twentieth-century objects, atmospheric light. School suitable and respectful. No text, lettering, numbers, watermarks or logos. No graphic violence, gore or injuries. This is an illustrative reconstruction, not an authentic historical photograph.
+Scene: A British wartime munitions factory around 1916: adult women and men in appropriate period work clothes handling production benches and orderly rows of shells; large industrial windows, belts, tools and brick structure, serious concentration and dignity. Warm light through dusty windows, petrol-green shadows and brass highlights. No modern machinery, no explosions, no hazardous spectacle.
+
+GEVOLGEN
+Use case: historical-scene. Asset type: wide landscape chapter cover for a Dutch secondary-school First World War learning website. Style: rich cinematic hand-painted historical illustration with subtle photographic texture, refined museum-exhibition quality; a coherent warm parchment, sepia, antique brass, muted burgundy, olive and petrol palette. Wide landscape composition (about 16:9), detailed physical textures, authentic early twentieth-century objects, atmospheric light. School suitable and respectful. No text, lettering, numbers, watermarks or logos. No graphic violence, gore or injuries. This is an illustrative reconstruction, not an authentic historical photograph.
+Scene: A European city street in November 1918 at the news of the armistice: a modest crowd of adults in early twentieth-century coats and hats, a few returning soldiers, restrained hopeful expressions, period façades and modest red white blue bunting above the street. Warm autumn light after rain, relief and hope with a reflective tone. No victory weapons, no World War Two objects, no banners or readable lettering.
+
+
+6. Sfeerbeeld / hero
+Bestand: assets/hero-archive.jpg
+Gemaakt met de ingebouwde image_gen-tool; geen CLI/API-fallback.
+Uiteindelijke prompt:
+Use case: historical-scene. Asset type: cinematic wide website hero background, landscape 16:9. Primary request: create a beautiful immersive First World War historian's archive scene for an educational Dutch website Dossier 1914. An antique oak research desk in an atmospheric dark library, overflowing with rich archival imagery: elegant overlapping sepia photographs of a European avenue circa 1914, distant steam-powered ships and a dignified non-graphic western-front trench; aged letters with unreadable handwritten marks, a folded map-like paper without any readable geographic labels or accurate political borders, brass compass and fountain pen. A large evocative photograph panel of a steam train carrying soldiers in 1914 dominates the RIGHT half, warm window light falling across paper, deep forest-charcoal shadows, antique brass, oxblood-red and parchment. The LEFT third mostly dark softly textured negative space for a readable title overlay. High-end museum exhibition aesthetic, tactile photographic paper, subtle grain, cinematic depth, sophisticated realistic historical illustration, not flat icons and not a UI mockup. No readable text, no logos, no watermark, no modern equipment, no gore, no violence, no WWII imagery. Historically inspired original illustration that will be explicitly labelled reconstruction.
+
+Historische foto's
+De vijf echte archieffoto's staan in archive-data.js met datum, bronlink, maker/collectie en rechtenmetadata. Ze zijn niet met AI gegenereerd. De aangeleverde archiefbestanden blijven intact; kaders op de website gebruiken een uitsnede die via 'Bekijk foto' volledig is te openen.
