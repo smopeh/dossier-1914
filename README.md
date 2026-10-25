@@ -1,12 +1,14 @@
 # Dossier 1914 — ontrafel de Eerste Wereldoorlog
 
+**[Open de leerwebsite](https://smopeh.github.io/dossier-1914/)**
+
 Een interactieve Nederlandstalige leerwebsite voor 2 havo: vijf dossiers, twaalf proeftoetsvragen, gerichte herhaling en een printvriendelijke samenvatting.
 
 De stof is algemene voorbereiding. Er zijn geen schoolhoofdstukken of specifieke toetsleerdoelen meegeleverd.
 
 ## Gebruik
 
-Open `index.html` in een browser, of gebruik de GitHub Pages-versie zodra die is ingeschakeld. Geen installatie, account of live AI nodig. Voortgang blijft lokaal op het apparaat en in de browser. De drie sfeerkeuzes heten Archief, Nacht en Licht.
+Open `index.html` in een browser, of gebruik de online GitHub Pages-versie via de link hierboven. Geen installatie, account of live AI nodig. Voortgang blijft lokaal op het apparaat en in de browser. De drie sfeerkeuzes heten Archief, Nacht en Licht.
 
 ## Inhoud aanpassen
 
